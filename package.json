@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-rossmoody",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Shareable prettier config for my personal projects",
   "main": "index.js",
   "repository": {
