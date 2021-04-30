@@ -1,0 +1,13 @@
+{
+  "name": "prettier-config-rossmoody",
+  "version": "1.0.0",
+  "description": "Shareable prettier config for my personal projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossmoody/prettier-config-rossmoody.git"
+  },
+  "author": "Ross Moody<ross@rossmoody.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/rossmoody/prettier-config-rossmoody#readme"
+}
